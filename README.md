@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Yestay&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&fontSize=60)
 <div align="center">
 
   <p>Follow the links below for:</p>
