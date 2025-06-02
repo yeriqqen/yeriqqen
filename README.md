@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&fontSize=60)
 <div align="center">
 
   <p>Follow the links below for:</p>
@@ -56,8 +55,6 @@
   </div>
 </div>
 <hr>
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer)
 
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeriqqen&layout=compact&theme=tokyonight)
