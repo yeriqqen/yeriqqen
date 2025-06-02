@@ -1,13 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Yestay&fontSize=60)
 <div align="center">
 
-  <p>Hi There! I'm a Fullstack developer.</p>
-  
-  <h3>❤️ I love...</h3>
-  <p>💻 Programming&nbsp;&nbsp;✍️ Movies&nbsp;&nbsp;🎮 Games</p>
+  <p>Follow the links below for:</p>
+  <p>💻 My Protfolio&nbsp;&nbsp;✍️ My Resume&nbsp;&nbsp;🎮 Other Apps</p>
    <a href="https://yeriqqen.github.io/"><img src="https://img.shields.io/badge/My blog-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <hr>
-  <h3>🔥 Main Tech Stack 🔥</h3>
+  <h3>Main Tech Stack</h3>
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=&logo=Html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=&logo=CSS3&logoColor=white">
@@ -31,7 +29,7 @@
     <img src="https://img.shields.io/badge/AWS-FF9900?style=&logo=AmazonAWS&logoColor=black">
   </div>
   <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png">
-  <h3>🔥 What I Have Done Before.. 🔥</h3>
+  <h3>What I Have Done Before</h3>
   <div>
     <img src="https://img.shields.io/badge/Vue-4FC08D?style=&logo=Vue.js&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=&logo=React&logoColor=black">
@@ -43,7 +41,7 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=&logo=mongodb&logoColor=white">
   </div>
   <p>+</p>
-    <h3>🔥 What I'm Still Studying.. 🔥</h3>
+    <h3>What I'm Still Studying</h3>
   <div>
     <div>
       <img src="https://img.shields.io/badge/Django-092E20?style=&logo=django&logoColor=white">
