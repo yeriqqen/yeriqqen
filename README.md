@@ -38,6 +38,7 @@
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=&logo=laravel&logoColor=white">
   </div>
   <div>
+    <img src="https://img.shields.io/badge/Astro-%23FF5D01?style=for-the-badge&logo=astro&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=&logo=mongodb&logoColor=white">
   </div>
