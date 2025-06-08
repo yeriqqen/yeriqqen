@@ -1,7 +1,7 @@
 <div align="center">
 
   <p>Follow the links below for:</p>
-  <p>💻 My Protfolio&nbsp;&nbsp;✍️ My Resume&nbsp;&nbsp;🎮 Other Apps</p>
+  <a href="https://yeriqqen.github.io/portfolio"><img src="https://img.shields.io/badge/My Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://yeriqqen.github.io/"><img src="https://img.shields.io/badge/My blog-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <hr>
   <h3>Main Tech Stack</h3>
