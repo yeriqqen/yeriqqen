@@ -2,7 +2,7 @@
 
   <p>Follow the links below for:</p>
   <a href="https://yeriqqen.github.io/portfolio"><img src="https://img.shields.io/badge/My Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-   <a href="https://yeriqqen.github.io/"><img src="https://img.shields.io/badge/My blog-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="https://yeriqqen.vercel.app"><img src="https://img.shields.io/badge/My blog-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <hr>
   <h3>Main Tech Stack</h3>
   <div>
