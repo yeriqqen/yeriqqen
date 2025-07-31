@@ -27,7 +27,6 @@
     <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=&logo=kubernetes&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-FF9900?style=&logo=AmazonAWS&logoColor=black">
   </div>
-  <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png">
   <h3>What I Have Done Before</h3>
   <div>
     <img src="https://img.shields.io/badge/Vue-4FC08D?style=&logo=Vue.js&logoColor=white">
@@ -39,8 +38,6 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=&logo=mongodb&logoColor=white">
   </div>
-  <p>+</p>
-    <h3>What I'm Still Studying</h3>
   <div>
     <div>
       <img src="https://img.shields.io/badge/Django-092E20?style=&logo=django&logoColor=white">
@@ -55,6 +52,3 @@
   </div>
 </div>
 <hr>
-
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeriqqen&layout=compact&theme=tokyonight)
